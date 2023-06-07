@@ -1,0 +1,13 @@
+.rows {
+    width: 100%;
+    flex: 1 1 auto;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    justify-content: space-between;
+    width: 100%;
+    display: flex;
+}

@@ -1,0 +1,17 @@
+.button {
+    border-radius: 10px;
+    transition: .1s;
+    cursor: pointer;
+    padding-bottom: 3px;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: drop-shadow(.05em .05em .05em #000);
+    height: 80px;
+    font-weight: 700;
+    font-size: 40px;
+    width: 80px;
+}
